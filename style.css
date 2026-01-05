@@ -121,7 +121,6 @@ h1 {
   justify-content: space-between;
   gap: 1rem;
   box-shadow: 0 0 25px rgba(0,187,255,.25);
-  transition: .25s ease;
 }
 
 .clickable {
